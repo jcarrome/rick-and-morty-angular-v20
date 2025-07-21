@@ -1,1 +1,14 @@
 // Estilos a tu preferencia (Se recomienda estilos sencillos y claros)
+
+.main-header {
+  text-align: center;
+  margin-top: 2rem;
+
+  h1 {
+    font-size: 2.5rem;
+    color: #00b5cc;
+    letter-spacing: 2px;
+    text-shadow: 0 2px 12px rgba(0,0,0,0.25);
+    font-family: 'Orbitron', 'Arial', sans-serif;
+  }
+}
